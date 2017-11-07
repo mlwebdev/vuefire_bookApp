@@ -21,3 +21,6 @@ npm run build --report
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 ## View live online example at http://vuefire_book_app.surge.sh/
+
+This app allows you to add or delete a book title, author and url to firebase database. 
+The url you enter will bind to the book title.
