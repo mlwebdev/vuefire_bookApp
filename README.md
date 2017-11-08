@@ -1,6 +1,6 @@
 # VueFire Book app
 
-> A Vue.js project
+> A Vue.js & Firebase project
 > #### View live online example at http://vuefire_book_app.surge.sh/
 
 
